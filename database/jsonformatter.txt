@@ -1,0 +1,62 @@
+[
+  {
+    "UserID": 1,
+    "FullName": "Asif Abbas",
+    "Email": "14asifcr7@gmail.com",
+    "PasswordHash": "#Asifabbas14",
+    "PhoneNumber": "8445941678",
+    "Address": "Saga Emporium,Fatehabad Road,Agra-282001",
+    "UserRole": "Admin",
+    "CreatedAt": "2025-03-30T11:34:09.770"
+  },
+  {
+    "UserID": 2,
+    "FullName": "Danish Khan",
+    "Email": "Kdanish593@gmail.com",
+    "PasswordHash": "AS098712#@",
+    "PhoneNumber": "9753567889",
+    "Address": "Saga Emporium,Fatehabad Road,Agra-282001",
+    "UserRole": "Customer",
+    "CreatedAt": "2025-03-30T11:34:09.773"
+  },
+  {
+    "UserID": 3,
+    "FullName": "Parth Awasthi",
+    "Email": "parth@xyz.com",
+    "PasswordHash": "46ddgbh@!4",
+    "PhoneNumber": "8444481678",
+    "Address": "GMB,Fatehabad Road,Agra-282001",
+    "UserRole": "Customer",
+    "CreatedAt": "2025-03-30T11:34:09.773"
+  },
+  {
+    "UserID": 4,
+    "FullName": "Saket Agrawal",
+    "Email": "saket93@yahoo.com",
+    "PasswordHash": "5789_#889",
+    "PhoneNumber": "9874213458",
+    "Address": "allahabad-982001",
+    "UserRole": "Customer",
+    "CreatedAt": "2025-03-30T11:34:09.773"
+  },
+  {
+    "UserID": 5,
+    "FullName": "Huzaif Khan",
+    "Email": "huzaif@gmail.com",
+    "PasswordHash": "#567dfgjg5",
+    "PhoneNumber": "8445941678",
+    "Address": "Shilpgram,Agra-282401",
+    "UserRole": "Admin",
+    "CreatedAt": "2025-03-30T11:34:09.773"
+  },
+  {
+    "UserID": 6,
+    "FullName": "Aryab Dhar",
+    "Email": "Aryan@gmail.com",
+    "PasswordHash": "A5g8g12#@",
+    "PhoneNumber": "9234567889",
+    "Address": "Vrindawan,Mathura-762001",
+    "UserRole": "Customer",
+    "CreatedAt": "2025-03-30T11:34:09.773"
+  }
+]
